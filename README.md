@@ -1,222 +1,241 @@
-# 👋 Hi, I'm Prudhvi Sai
+<div align="center">
 
-### 🎯 Aspiring Data Analyst | Business Analyst | Data Scientist | AI/ML Enthusiast
+# Hi, I'm Prudhvi Sai 👋
 
-I am a Computer Science Engineering student passionate about **Data Analytics, Business Intelligence, Data Science, Machine Learning, and Artificial Intelligence**.
+### Data Analyst • Business Analyst • Data Science • AI/ML
 
-I enjoy converting raw data into meaningful insights, building practical projects, solving business problems, and continuously improving my technical and analytical skills.
+I build data-driven projects, analyze problems, and turn data into
+clear and useful insights.
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
+
+I am a Computer Science Engineering student interested in **Data Analytics,
+Business Analytics, Data Science, Machine Learning and Artificial Intelligence**.
+
+I enjoy working with data, solving practical problems, creating visualizations,
+and building projects that connect technical skills with real-world use cases.
 
 * 🎓 Computer Science Engineering Student
-* 📊 Interested in Data Analytics & Business Analytics
-* 🤖 Learning Data Science, Machine Learning & AI
-* 🐍 Working with Python for data analysis and machine learning
-* 🗄️ Practicing SQL and database concepts
-* 📈 Learning Excel, Power BI and data visualization
-* 🧠 Improving statistics, mathematics and problem-solving skills
+* 📊 Interested in Data & Business Analytics
+* 🐍 Python for Data Analysis and Machine Learning
+* 🗄️ SQL and Database Analysis
+* 📈 Excel and Power BI
+* 🤖 Machine Learning and AI
+* 📚 Continuously learning and building projects
 * 💼 Open to internships and entry-level opportunities
-* 🌱 Currently building industry-oriented projects
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming
+### Programming & Data
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+</p>
 
-### Data Analytics
+### Analytics & Visualization
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square">
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square">
+</p>
 
-### Data Science & Machine Learning
+### Machine Learning & AI
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=opencv\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv&logoColor=white">
+</p>
 
-### Databases
+### Tools & Platforms
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+</p>
 
 ---
 
-# 📊 Areas of Interest
+## 📌 Featured Projects
+
+### 📊 Business Analytics
+
+**Business Analytics Dashboard**
+
+A practical analytics project focused on KPIs, trends, business performance,
+and data visualization.
+
+**Skills:** Excel • SQL • Power BI • Data Analysis
+
+🔗 **[View Project](https://github.com/YOUR_USERNAME/business-analytics-dashboard)**
+
+---
+
+### 🗄️ SQL Data Analysis
+
+A collection of SQL analysis projects covering joins, aggregations,
+subqueries, CTEs, window functions and business problems.
+
+**Skills:** SQL • MySQL • PostgreSQL • Data Analysis
+
+🔗 **[View Project](https://github.com/YOUR_USERNAME/sql-data-analysis)**
+
+---
+
+### 📈 Stock Price Prediction
+
+A machine learning and time-series project for analyzing historical
+stock data and predicting future trends.
+
+**Skills:** Python • Pandas • NumPy • Scikit-learn • Machine Learning
+
+🔗 **[View Project](https://github.com/YOUR_USERNAME/stock-price-prediction)**
+
+---
+
+### 🤖 Facial Emotion Recognition
+
+A computer vision and deep learning project that identifies emotions
+from facial images.
+
+**Skills:** Python • PyTorch • OpenCV • Deep Learning
+
+🔗 **[View Project](https://github.com/YOUR_USERNAME/facial-emotion-recognition)**
+
+---
+
+### 🐍 Python Data Analysis
+
+Python-based projects covering data cleaning, exploratory data analysis,
+statistics and visualization.
+
+**Skills:** Python • Pandas • NumPy • Matplotlib • Seaborn
+
+🔗 **[View Project](https://github.com/YOUR_USERNAME/python-data-analysis)**
+
+---
+
+## 📚 Currently Learning
 
 ```text
-Data Analytics
-      ↓
-Data Cleaning
-      ↓
-Exploratory Data Analysis
-      ↓
+Python
+   ↓
+SQL & Databases
+   ↓
+Excel & Power BI
+   ↓
 Statistics
-      ↓
-Data Visualization
-      ↓
-Business Intelligence
-      ↓
+   ↓
+Data Analysis
+   ↓
 Machine Learning
-      ↓
+   ↓
+Deep Learning
+   ↓
 Artificial Intelligence
+   ↓
+Generative AI
 ```
 
 ---
 
-# 📌 Featured Projects
+## 🎯 Career Focus
 
-## 📈 Stock Price Prediction
+I am currently developing skills for roles such as:
 
-Machine learning and time-series project for analyzing historical stock data and predicting future price trends.
-
-**Technologies:** Python • Pandas • NumPy • Matplotlib • Scikit-learn • Machine Learning
-
-🔗 [View Project](https://github.com/YOUR_USERNAME/stock-price-prediction)
-
----
-
-## 📊 Business Analytics Dashboard
-
-An analytics project focused on transforming raw business data into meaningful KPIs, reports and dashboards.
-
-**Technologies:** Excel • SQL • Power BI • Data Visualization
-
-🔗 [View Project](https://github.com/YOUR_USERNAME/business-analytics-dashboard)
+| Role                | Focus                                               |
+| ------------------- | --------------------------------------------------- |
+| 📊 Data Analyst     | Data Analysis • SQL • Excel • Power BI              |
+| 💼 Business Analyst | Business Problems • KPIs • Requirements • Analytics |
+| 🔬 Data Scientist   | Statistics • Python • Machine Learning              |
+| 🤖 AI/ML Engineer   | Machine Learning • Deep Learning • AI               |
 
 ---
 
-## 😊 Facial Emotion Recognition
+## 📈 GitHub Statistics
 
-A computer vision and deep learning project that identifies human emotions from facial images.
+<div align="center">
 
-**Technologies:** Python • PyTorch • OpenCV • Deep Learning
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github">
 
-🔗 [View Project](https://github.com/YOUR_USERNAME/facial-emotion-recognition)
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true">
 
----
-
-## 💰 Smart Expense Manager
-
-An application designed to help users track expenses and understand their spending behaviour.
-
-**Technologies:** Kotlin • Jetpack Compose • Android • Data Management
-
-🔗 [View Project](https://github.com/YOUR_USERNAME/smart-expense-manager)
+</div>
 
 ---
 
-## 🗄️ SQL Data Analysis
+## 🔥 Contribution Streak
 
-A collection of SQL projects covering data cleaning, joins, aggregations, subqueries, CTEs, window functions and business analysis.
+<div align="center">
 
-**Technologies:** SQL • MySQL • PostgreSQL
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true">
 
-🔗 [View Project](https://github.com/YOUR_USERNAME/sql-data-analysis)
-
----
-
-# 📚 Currently Learning
-
-* 🐍 Advanced Python
-* 🗄️ Advanced SQL
-* 📊 Advanced Excel
-* 📈 Power BI
-* 📐 Statistics for Data Science
-* 🧮 Mathematics for Machine Learning
-* 🤖 Machine Learning
-* 🧠 Deep Learning
-* ✨ Generative AI
-* ☁️ Cloud & Data Engineering fundamentals
+</div>
 
 ---
 
-# 📈 GitHub Statistics
+## 📊 Contribution Activity
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="180"/>
-
-</p>
+</div>
 
 ---
 
-# 🔥 Contribution Streak
+## 🤝 Connect With Me
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" />
-
-</p>
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true" />
-
-</p>
-
----
-
-# 🎯 Career Goal
-
-My goal is to become a strong **Data Professional** capable of combining:
-
-**Business Understanding + Data Analysis + Statistics + Programming + Machine Learning + AI**
-
-I am continuously building projects and improving my problem-solving skills to become industry-ready.
-
----
-
-# 🤝 Let's Connect
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</p>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
 
 ---
 
-## 💡 My Learning Philosophy
+<div align="center">
 
-> **Learn → Build → Analyze → Improve → Share**
+### 💡 Learn • Build • Analyze • Improve
 
-I believe the best way to learn technology is by building practical projects and solving real-world problems.
+**Thanks for visiting my profile!**
 
----
-
-⭐ If you find my projects useful, feel free to explore my repositories and connect with me.
-
-### Thanks for visiting my profile! 🚀
+</div>
