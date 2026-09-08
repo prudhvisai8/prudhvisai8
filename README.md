@@ -183,10 +183,10 @@ I am currently developing skills for roles such as:
 <div align="center">
 
 <img height="165"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github">
+src="https://github-readme-stats.vercel.app/api?username=prudhvisai8&show_icons=true&hide_border=true&rank_icon=github">
 
 <img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true">
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=prudhvisai8&layout=compact&hide_border=true">
 
 </div>
 
@@ -196,7 +196,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true">
+<img src="https://streak-stats.demolab.com/?user=prudhvisai8&hide_border=true">
 
 </div>
 
@@ -206,7 +206,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prudhvisai8&hide_border=true">
 
 </div>
 
@@ -216,15 +216,15 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/prudhvisai8">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/prudhvi-sai-tallapalem">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:prudhvisai641@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
